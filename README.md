@@ -22,10 +22,12 @@ Aquí comença el teu camí com a júnior.
 ## Tasques a realitzar
 
 - Tasca 1: [Gestió projecte amb metodologia Kanban](./activitats/Tasca1-Kanban.md)
-- Tasca 3: [Emmagatzematge redundant: LVM i espais d'emmagatzematge](https://github.com/SMX-0226SI/NF2AA2-GestioDiscos)
-- Tasca 4: [Disaster Recovery Plan: pla de còpies](https://github.com/SMX-0226SI/NF2AA2-PlaCopies/)
-- Tasca 5: [Administració avançada de servidors Linux](https://github.com/SMX-SOX/activitats/blob/main/nf1-Linux/UD5/AA1-gestors_web.md)
-- Tasca 6: [Monitorització de servidors Linux](https://github.com/SMX-SOX/activitats/blob/main/nf1-Linux/UD5/AA2-monitoritzaci%C3%B3.md)
+- Tasca 2: [Git, viatjan pel temps](./activitats/Tasca2-Git.md)
+- Tasca 3: [Validació de git i GitHub](./activitats/Tasca3-ValidacioGit.md)
+- Tasca 4: [Emmagatzematge redundant: LVM i espais d'emmagatzematge](https://github.com/SMX-0226SI/NF2AA2-GestioDiscos)
+- Tasca 5: [Disaster Recovery Plan: pla de còpies](https://github.com/SMX-0226SI/NF2AA2-PlaCopies/)
+- Tasca 6: [Administració avançada de servidors Linux](https://github.com/SMX-SOX/activitats/blob/main/nf1-Linux/UD5/AA1-gestors_web.md)
+- Tasca 7: [Monitorització de servidors Linux](https://github.com/SMX-SOX/activitats/blob/main/nf1-Linux/UD5/AA2-monitoritzaci%C3%B3.md)
 ...
 
 - Producte final: repositori del projecte amb totes les tasques realitzades i documentació generada.
@@ -40,8 +42,8 @@ Les diferentes tasques s'avaluaran en els mòduls corresponents, la nota final d
 
 | Tasques individuals              | Tasques en grup               |
 |--------------------------------- |-------------------------------|
-|Tasca x:                          |Tasca 1: Gestió Kanban         |
-|Tasca x:                          |Tasca x:                       |
+|Tasca 2: Git, viatjan pel temps   |Tasca 1: Gestió Kanban         |
+|Tasca 3: Validació de git i GitHub|Tasca 6: Presentació grupal    |
 | Producte final: repositori       |                               |
 
 La nota final del projecte es calcularà amb la següent fórmula:
