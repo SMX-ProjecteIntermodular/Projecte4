@@ -134,7 +134,7 @@ Com a profesional, sovint hauràs de revisar l'historial del repositori per sabe
 
   > **Nota**: `HEAD` és un punter que apunta al darrer commit del teu repositori, ja que l'historial funciona com una pila, on el darrer commit és el primer que es mostra.
 
-#### Part 3: Recuperar versions anteriors
+#### Part 3: Recuperar versions anteriors del working directory
 
 Imagina que estàs editant el fitxer interficies.yaml i, per error, esborres informació crucial o comets una erada de tecleig. Com que encara no has fet git commit, pots descartar els canvis del Working Directory i tornar el fitxer a l'estat del darrer commit.
 
