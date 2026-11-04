@@ -22,8 +22,10 @@ Aquí comença el teu camí com a júnior.
 ## Tasques a realitzar
 
 - Tasca 1: Gestió projecte amb metodologia Kanban
-- Tasca 2: 
+- Tasca 2:
 ...
+
+- Producte final: repositori del projecte amb totes les tasques realitzades i documentació generada.
 
 ## Lliurament del projecte
 
@@ -35,8 +37,9 @@ Les diferentes tasques s'avaluaran en els mòduls corresponents, la nota final d
 
 | Tasques individuals              | Tasques en grup               |
 |--------------------------------- |-------------------------------|
-|--------------------------------- |Tasca 1: Gestió Kanban         |
-|--------------------------------- |Tasca                          |
+|Tasca x:                          |Tasca 1: Gestió Kanban         |
+|Tasca x:                          |Tasca x:                       |
+| Producte final: repositori       |                               |
 
 La nota final del projecte es calcularà amb la següent fórmula:
 
