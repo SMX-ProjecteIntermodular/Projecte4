@@ -22,7 +22,7 @@ Aquí comença el teu camí com a júnior.
 ## Tasques a realitzar
 
 - Tasca 1: [Gestió projecte amb metodologia Kanban](./activitats/Tasca1-Kanban.md)
-- Tasca 2: [Git, viatjan pel temps](./activitats/Tasca2-Git.md)
+- Tasca 2: [Git, viatjant pel temps](./activitats/Tasca2-Git.md)
 - Tasca 3: [Validació de git i GitHub](./activitats/Tasca3-ValidacioGit.md)
 - Tasca 4: [Emmagatzematge redundant: LVM i espais d'emmagatzematge](https://github.com/SMX-0226SI/NF2AA2-GestioDiscos)
 - Tasca 5: [Disaster Recovery Plan: pla de còpies](https://github.com/SMX-0226SI/NF2AA2-PlaCopies/)
