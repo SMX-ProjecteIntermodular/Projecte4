@@ -22,8 +22,10 @@ Aquí comença el teu camí com a júnior.
 ## Tasques a realitzar
 
 - Tasca 1: [Gestió projecte amb metodologia Kanban](./activitats/Tasca1-Kanban.md)
-- Tasca 2: [Emmagatzematge redundant: LVM i espais d'emmagatzematge](https://github.com/SMX-0226SI/NF2AA2-GestioDiscos)
-- Tasca 3: [Disaster Recovery Plan: pla de còpies](https://github.com/SMX-0226SI/NF2AA2-PlaCopies/)
+- Tasca 3: [Emmagatzematge redundant: LVM i espais d'emmagatzematge](https://github.com/SMX-0226SI/NF2AA2-GestioDiscos)
+- Tasca 4: [Disaster Recovery Plan: pla de còpies](https://github.com/SMX-0226SI/NF2AA2-PlaCopies/)
+- Tasca 5: [Administració avançada de servidors Linux](https://github.com/SMX-SOX/activitats/blob/main/nf1-Linux/UD5/AA1-gestors_web.md)
+- Tasca 6: [Monitorització de servidors Linux](https://github.com/SMX-SOX/activitats/blob/main/nf1-Linux/UD5/AA2-monitoritzaci%C3%B3.md)
 ...
 
 - Producte final: repositori del projecte amb totes les tasques realitzades i documentació generada.
