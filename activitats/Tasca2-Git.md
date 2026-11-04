@@ -54,6 +54,50 @@ Permès per com a eina de suport en la millora de la redacció dels informes, ce
 - Compte de GitHub actiu
 - Git instal·lat al vostre ordinador
 - Editor VS Code
+- Identitat de git configurada al repositori local:
+
+  ```bash
+    git config user.name "Nom Cognoms"
+    git config user.email el_teu_correu@mataro.epiaedu.cat
+  ```
+
+### Descripció de l'activitat
+
+En aquesta activitat treballarem un aspecte fonamental de control de versions: l'historial de versions. Veurem com podem viatjar en el temps dins del nostre repositori i recuperar versions anteriors dels fitxers.
+
+#### Part 1: Bones pràctiques en la documentació de commits
+
+Tot i que ja esteu acostumats a fer commits, és important que aquests estiguin ben documentats. Per això, en aquesta part de l'activitat, revisarem els vostres últims commits i els millorarem si cal.
+
+Un bon missatge de commit permet a qualsevol company de l'equip entendre què s'ha fet sense haver de llegir tot el codi.
+
+- Format recomanat per a un missatge de commit:
+
+  `<Tipus>: descripció curta en imperatiu`.
+  
+  Alguns del tipus de commit més habituals són:
+
+  - `feat`: afegir una nova funcionalitat
+  - `fix`: corregir un error
+  - `docs`: canvis en la documentació
+  - `style`: canvis en l'estil del codi (formatació, espais, etc.)
+
+- Escriu en imperatiu/present: Exemple "afegeix la funcionalitat de login" en lloc de "afegit la funcionalitat de login".
+
+- Commits **atòmics**: Cada commit hauria de representar un canvi lògic i complet. No barregis la correcció d'un fitxer d'una tasca amb la redacció del README en un sol commit.
+
+**Exercici pràctic**: crear commits estructurats
+
+1. Crea un fitxer anomenat README.md a dins la carpeta tasca02 amb una breu descripció de la tasca, com un breu enunciat.
+1. Fes el teu primer commit seguint la convenció de missatges de commit que hem vist abans:
+
+   `"docs: inicialitza la documentació de la tasca 2"`
+
+1. Crea un fitxer de configuració de la xarxa anomenat `network.yaml` i copia un configuració típica d'un arxiu de `netplan` (pots trobar exemples a la documentació oficial de netplan) i fes un commit seguint les bones pràctiques, tenint clar que és del tipus `feat`.
+
+#### Part 2: L'historial del repositori
+
+Com a profesional, sovint hauràs de revisar l'historial del repositori per saber qui va fer un canvi determinat o quin dia es va modificar una configuració concreta.
 
 ### Què cal lliurar, on i com?
 
