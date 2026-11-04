@@ -21,8 +21,9 @@ Aquí comença el teu camí com a júnior.
 
 ## Tasques a realitzar
 
-- Tasca 1: Gestió projecte amb metodologia Kanban
-- Tasca 2:
+- Tasca 1: [Gestió projecte amb metodologia Kanban](./activitats/Tasca1-Kanban.md)
+- Tasca 2: [Emmagatzematge redundant: LVM i espais d'emmagatzematge](https://github.com/SMX-0226SI/NF2AA2-GestioDiscos)
+- Tasca 3: [Disaster Recovery Plan: pla de còpies](https://github.com/SMX-0226SI/NF2AA2-PlaCopies/)
 ...
 
 - Producte final: repositori del projecte amb totes les tasques realitzades i documentació generada.
