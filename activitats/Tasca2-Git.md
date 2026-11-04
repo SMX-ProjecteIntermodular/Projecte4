@@ -2,44 +2,44 @@
 
 ## Presentació de l'activitat
 
-
 ### Durada de l'activitat
 
-La durada prevista de l'activitat és x hores a classe.
+La durada prevista de l'activitat és 2 hores a classe.
 
 ### Objectius específics de l'activitat
 
-- Objectiu 1
-- Objectiu 2
-- Objectiu 3
+- Gestionar un repositori mitjançant Git i GitHub.
+- Generació de documentació en format Markdown.
 
 ### Competències treballades
 
-a) Competència 1
-b) Competència 2
+m) Organitzar i desenvolupar el treball assignat mantenint unes relacions professionals adequades en l’entorn de treball.
 
 ### Resultats d'aprenentatge i criteris d'avaluació
 
-RAx.
-RAy.
+- 1713.4. Realitza el seguiment de l'execució de les activitats plantejades, verificant que es compleix amb la planificació.
+- 1713.5. Transmet informació amb claredat, de manera ordenada i estructurada.
+
+#### Criteris d'avaluació
+
+4.6 Defineix i elabora la documentació necessària per a l'avaluació de les activitats i del projecte en el seu conjunt.
+
+5.1 Manté una actitud ordenada i metòdica en la transmissió de la informació.
+
+5.4 Coneix els termes tècnics en altres llengües que siguin estàndards del sector.
 
 ### Continguts
+
+- Control de versions.
 
 ### Capacitats clau treballades
 
 - Autonomia
 - Organització del treball
-- Treball en equip
-- Innovació
 - Resolució de problemes
 - Responsabilitat
-- Relació interpersonal
 
 ### Semàfor ús de la IA
-
-; Seleccionar l'opció que correspongui segons el nivell d'ús de la IA permès per a l'activitat.
-
-🔴 Ús No Permès
 
 🟠 Aquesta activitat permet un ús parcial o restringit.
 
@@ -47,20 +47,28 @@ Permès per com a eina de suport en la millora de la redacció dels informes, ce
 
 **Condicions**: Cal processar, entendre i validar sempre els resultats rebuts. Està totalment prohibit copiar l'enunciat d'un exercici directament al xat de la IA i enganxar la resposta generada per al lliurament final sense treball propi ni anàlisi crítica.
 
-🟢 Permès totalment.
-
-La IA és una eina co-pilot essencial. Es valora el procés de treball amb ella, però és obligatori un procés de validació posterior (defensa oral, vídeo, auditoria de prompts).
-
-🔵 Ús obligatori
-
-La IA forma part explícita de l’objectiu d’aprenentatge. Has d’utilitzar-la, analitzar-la, comparar-la o auditar-la seguint instruccions concretes.
-
 ## Enunciat de l'activitat
 
 ### Requeriments previs
 
-Cal que tingueu un servidor Linux (Ubuntu Server) instal·lat i configurat de l'activitat anterior. Cas que sigui necessari, torneu a desplegar el servidor a partir del fitxer `.OVA` que vau generar.
+- Compte de GitHub actiu
+- Git instal·lat al vostre ordinador
+- Editor VS Code
 
 ### Què cal lliurar, on i com?
 
+- Documentació de l'activitat en format Markdown a la carpeta `tasca02` del vostre repositori del projecte 4.
+
 ## Material de suport
+
+- Material propi.[Guia 1. Iniciació a Git, GitHub i Visual Studio Code](https://github.com/SMX-ProjecteIntermodular/Guies/blob/main/git-github/01-iniciacio-git-github-vscode.md)
+
+- Material propi. [Guia 2. Treballant en el repositori amb Git](https://github.com/SMX-ProjecteIntermodular/Guies/blob/main/git-github/02-comandes-git.md)
+
+- Material propi. [Guia 3. Markdown per treballar amb repositoris](https://github.com/SMX-ProjecteIntermodular/Guies/blob/main/git-github/03-markdown.md)
+
+- Material propi. [Guia 4. Creació de repositoris a partir de plantilla](https://github.com/SMX-ProjecteIntermodular/Guies/blob/main/git-github/04-crear-repositoris.md)
+
+- Material propi. [Guia 5. Resolució de conflictes amb Git](https://github.com/SMX-ProjecteIntermodular/Guies/blob/main/git-github/05-resolucio-conflictes.md)
+
+- GitHub. [Documentación de GitHub](https://docs.github.com/es)

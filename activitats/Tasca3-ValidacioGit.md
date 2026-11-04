@@ -8,9 +8,7 @@ Des de la vostra arribada a EverPia com alumnes de pràctiques i actualment com 
 
 Ara ha arribat el moment de validar els vostres coneixements i habilitats adquirides en el treball amb Git i GitHub, mitjançant una prova que us permitirà assolir l'insígnia "EverPia GitHub Specialist".
 
-<p align="center">
-  <img src="./img/insigniaGH.jpg" alt="EverPia GitHub Specialist Badge" />
-</p>
+![EverPia GitHub Specialist Badge](./img/insigniaGH.jpg)
 
 Aquesta insígnia serà reconeixement al vostre domini de les eines de control de versions i a la vostra capacitat per treballar de manera eficient en entorns col·laboratius.
 
@@ -31,9 +29,12 @@ m) Organitzar i desenvolupar el treball assignat mantenint unes relacions profes
 
 ### Resultats d'aprenentatge i criteris d'avaluació
 
-1713.5. Transmet informació amb claredat, de manera ordenada i estructurada.
+- 1713.4. Realitza el seguiment de l'execució de les activitats plantejades, verificant que es compleix amb la planificació.
+- 1713.5. Transmet informació amb claredat, de manera ordenada i estructurada.
 
 #### Criteris d'avaluació
+
+4.6 Defineix i elabora la documentació necessària per a l'avaluació de les activitats i del projecte en el seu conjunt.
 
 5.1 Manté una actitud ordenada i metòdica en la transmissió de la informació.
 
@@ -61,7 +62,9 @@ A partir de l'enunciat de l'activitat, haureu de resoldre una sèrie d'accions r
 
 ### Requeriments previs
 
-Cal que tingueu un servidor Linux (Ubuntu Server) instal·lat i configurat de l'activitat anterior. Cas que sigui necessari, torneu a desplegar el servidor a partir del fitxer `.OVA` que vau generar.
+- Compte de GitHub actiu
+- Git instal·lat al vostre ordinador
+- Editor VS Code
 
 ### Què cal lliurar, on i com?
 
