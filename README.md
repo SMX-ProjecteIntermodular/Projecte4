@@ -31,7 +31,9 @@ Aquí comença el teu camí com a júnior.
 - Tasca 7: [Monitorització de servidors Linux](https://github.com/SMX-SOX/activitats/blob/main/nf1-Linux/UD5/AA2-monitoritzaci%C3%B3.md)
 ...
 
-- Producte final: repositori del projecte amb totes les tasques realitzades i documentació generada.
+Com a producte final del projecte, caldrà lliurar:
+
+- Repositori del projecte amb totes les tasques realitzades i documentació generada.
 
 ## Pas inicial: crear repostiori
 
@@ -55,10 +57,11 @@ Les diferentes tasques s'avaluaran en els mòduls corresponents, la nota final d
 |--------------------------------- |-------------------------------|
 |Tasca 2: Git, viatjan pel temps   |Tasca 1: Gestió Kanban         |
 |Tasca 3: Validació de git i GitHub|Tasca 6: Presentació grupal    |
-| Producte final: repositori       |                               |
+|Producte final: repositori        |                               |
 
 La nota final del projecte es calcularà amb la següent fórmula:
 
+<!-- CAL RECALCULAR NOTA -->
 $$
 \text{Nota final} = 0,25 \cdot \text{Tasca 2} + 0,20 \cdot \text{Tasca 5} + 0,10 \cdot \text{Tasca 6 individual} + 0,20 \cdot \text{Tasca 1} + 0,25 \cdot \text{Tasca 6 grupal}
 $$
@@ -70,3 +73,5 @@ En aquest projecte es treballarà en grups de 2 persones. Hi haurà activitats i
 ## Durada i temporització
 
 El projecte té una durada de 3 setmanes, i en aquesta ocasió, implica **totes les hores de dedicació del curs**. Cada mòdul té activitats en aquest projecte, que en principi, haureu de realitzar a les hores del mòdul concret. No obstant això, és possible que algunes activitats s'hagin de realitzar fora de l'horari del mòdul, per la qual cosa haureu de gestionar el vostre temps de manera eficient.
+
+<!-- Si es vol fer un quadrant com el del primer, enllaçar el document compartit -->
