@@ -1,4 +1,4 @@
-# Tasca 2:Git, viatjant pel tempsy
+# Tasca 2: Git, viatjant pel temps
 
 ## Presentació de l'activitat
 
