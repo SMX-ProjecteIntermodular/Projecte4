@@ -37,7 +37,7 @@ Com a producte final del projecte, caldrà lliurar:
 
 ## Pas inicial: crear repositori
 
-El primer pas serà crear el teu repositori del projecte 4 a partir de la plantilla que tens disponible en aquest [enllaç](https://github.com/EverPia/projecte4-template).
+El primer pas serà crear el teu repositori del projecte 4 a partir de la plantilla que tens disponible en aquest [enllaç](https://github.com/EverPia/projecte4_template).
 
 Recordeu que el repositori ha de ser **privat** i que heu d'afegir als professors de projecte com a col·laboradors del vostre repositori, per tal que puguin accedir al contingut i avaluar-lo.
 
