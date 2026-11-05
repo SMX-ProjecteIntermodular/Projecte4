@@ -29,7 +29,7 @@ Aquí comença el teu camí com a júnior.
 - Tasca 5: [Disaster Recovery Plan: pla de còpies](https://github.com/SMX-0226SI/NF2AA2-PlaCopies/)
 - Tasca 6: [Administració avançada de servidors Linux](https://github.com/SMX-SOX/activitats/blob/main/nf1-Linux/UD5/AA1-gestors_web.md)
 - Tasca 7: [Monitorització de servidors Linux](https://github.com/SMX-SOX/activitats/blob/main/nf1-Linux/UD5/AA2-monitoritzaci%C3%B3.md)
-...
+- Tasca 8: [Repte RACC](./activitats/tasca08-RACC.md)
 
 Com a producte final del projecte, caldrà lliurar:
 
