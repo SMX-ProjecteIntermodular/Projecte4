@@ -6,6 +6,7 @@
 - [Compentències profesionals](./documents/Comp.md)
 - [Resultats d'aprenentatge](./documents/RA.md)
 - [Tasques a realitzar](#tasques-a-realitzar)
+- [Pas inicial: crear repostiori](#pas-inicial-crear-repostiori)
 - [Lliurament del projecte](#lliurament-del-projecte)
 - [Avaluació del projecte](#avaluació-del-projecte)
 - [Organització del treball](#organització-del-treball)
@@ -32,9 +33,19 @@ Aquí comença el teu camí com a júnior.
 
 - Producte final: repositori del projecte amb totes les tasques realitzades i documentació generada.
 
-## Lliurament del projecte
+## Pas inicial: crear repostiori
 
 El primer pas serà crear el teu repositori del projecte 4 a partir de la plantilla que tens disponible en aquest [enllaç](https://github.com/EverPia/projecte4-template).
+
+Recordeu que el repositori ha de ser **privat** i que heu d'afegir als professors de projecte com a col·laboradors del vostre repositori, per tal que puguin accedir al contingut i avaluar-lo.
+
+## Lliurament del projecte
+
+Cal lliurar el repositori amb l'estructura de carpetes i fitxers que es proposa en la plantilla. A més, caldrà que cada membre del grup documenti les activitats individuals i les de grup en el seu repositori GitHub.
+
+El Kanban ha de ser públic perquè pugui ser visualitzat pels professors.
+
+Algunes tasques concretes, també caldrà que les lliureu en el Moodle del mòdul corresponent, tal com us indicarà el professorat.
 
 ## Avaluació del projecte
 
