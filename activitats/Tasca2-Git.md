@@ -65,33 +65,18 @@ Permès per com a eina de suport en la millora de la redacció dels informes, ce
 
 En aquesta activitat treballarem un aspecte fonamental de control de versions: l'historial de versions. Veurem com podem viatjar en el temps dins del nostre repositori i recuperar versions anteriors dels fitxers.
 
+Per fer aquesta activitat, creareu un repositori **public** anomenat `projecte4-tasca02`. En aquest repositori realitzareu els exercicis pràctics, que documentareu en un fitxer `solucions.md` dins la carpeta `tasca02` del vostre repositori de projecte4.
+
 #### Part 1: Bones pràctiques en la documentació de commits
 
 Tot i que ja esteu acostumats a fer commits, és important que aquests estiguin ben documentats. Per això, en aquesta part de l'activitat, revisarem els vostres últims commits i els millorarem si cal.
 
-Un bon missatge de commit permet a qualsevol company de l'equip entendre què s'ha fet sense haver de llegir tot el codi.
-
-- Format recomanat per a un missatge de commit:
-
-  `<Tipus>: descripció curta en imperatiu`.
-  
-  Alguns del tipus de commit més habituals són:
-
-  - `feat`: afegir una nova funcionalitat
-  - `fix`: corregir un error
-  - `docs`: canvis en la documentació
-  - `style`: canvis en l'estil del codi (formatació, espais, etc.)
-
-- Escriu en imperatiu/present: Exemple "afegeix la funcionalitat de login" en lloc de "afegit la funcionalitat de login".
-
-- Commits **atòmics**: Cada commit hauria de representar un canvi lògic i complet. No barregis la correcció d'un fitxer d'una tasca amb la redacció del README en un sol commit.
-
 **Exercici pràctic**: crear commits estructurats
 
-1. Crea un fitxer anomenat README.md a dins la carpeta tasca02 amb una breu descripció de la tasca, com un breu enunciat.
+1. Crea un fitxer anomenat README.md a dins el repositori amb una breu descripció de la funcionalitat del repositori.
 1. Fes el teu primer commit seguint la convenció de missatges de commit que hem vist abans:
 
-   `"docs: inicialitza la documentació de la tasca 2"`
+   `"docs: inicialitza la repositori de prova per tasca 2"`
 
 1. Crea un fitxer de configuració de la xarxa anomenat `00-installer-config.yaml` amb el següent contingut:
 
@@ -169,10 +154,6 @@ Pots comprovar que l'estat del repositori és correcte amb la comanda `git statu
 
 A la part anterior, git ens ha estat útil per descartar els canvis en els que estàvem treballant, però què passa si volem recuperar l'estat del projecte en un commit anterior? Exemple, hem estat treballant en una idea, fent els commits corresponents, però ens adonem que no funciona i volem tornar a l'estat on sí funcionava. Com podem retrocedir en el temps?
 
-A Git no hi ha una sola manera de fer-ho; existeixen 3 estratègies principals, cadascuna amb els seus avantatges, inconvenients i casos d'ús.
-
-Per poder provar aquestes estratègies, primer de tot, necessitem un historial de commits més gran. Per això, realitzarem les següents accions:
-
 1. Editarem l'arxiu `00-installer-config.yaml` i modificarem el valor de `dhcp4` a `false` i afegirem una un configuració estàtica a la interfície `enps03`:
 
   ```yaml
@@ -234,10 +215,31 @@ Per poder provar aquestes estratègies, primer de tot, necessitem un historial d
 
 Revisa ara l'historial del repositori amb la comanda `git log --oneline` o amb l'eina gràfica per veure tot l'historial de commits realitzats.
 
+1. Anem a documentar un exemple de `revert` d'un commit:
+
+   - Volem tornar a l'estat del segon commit (on s'ha creat l'arxiu `00-installer-config.yaml` amb la configuració dhcp de la interfície `enps03`). Pots fer-ho amb la comanda o amb l'eina gràfica.
+   - Mostra amb l'eina `git graph` l'historial del repositori i comprova que s'ha creat un nou commit amb la informació de revert.
+
+1. Explorar un commit anterior:
+
+   - Usant l'eina gràfica exploreu el quart commit.
+   - Documenta com s'obre a l'editor una pestanya amb l'estat de l'arxiu en aquell momment, mostrant els canvis (verd insercions i en vermell eliminacions) respecte al commit anterior.
+
+1. Finalment, tot i que no és un procediment recomanat, anem a eliminar el darrer commit (`git reset`)
+
+   - Mostra l'historial actual amb la comanda `git log --oneline`.
+   - Elimina el darrer commit bé sigui amb la comanda `git reset --hard HEAD~1` o amb l'eina gràfica.
+   - Observa com ha quedat l'arxiu a l'editor.
+   - Indica l'estat del repositori amb la comanda `git status` i mostra l'historial amb la comanda `git log --oneline`.
 
 ### Què cal lliurar, on i com?
 
-- Documentació de l'activitat en format Markdown a la carpeta `tasca02` del vostre repositori del projecte 4.
+Documentació de l'activitat en format Markdown a la carpeta `tasca02` del vostre repositori del projecte 4. La carpeta ha d'incloure:
+
+- Un fitxer `README.md` amb una breu descripció de la tasca, resum de l'enunciat, etc.
+- Carpeta `img` amb les captures de pantalla que consideris rellevants.
+- Un fitxer `solucions.md` amb les solucions dels exercicis realitzats.
+Aquesta arxiu ha d'incloure els diferents exercicis realitzats, incorporant les accions realitzades i les captures de pantalla o sortides de la terminal que consideris rellevants.
 
 ## Material de suport
 
