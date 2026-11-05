@@ -6,7 +6,7 @@ Com a consultor junior t’ha arribat un encàrrec d’un dels clients més impo
 
 ### Durada de l'activitat
 
-La durada prevista de l'activitat és **6** hores a classe.
+La durada prevista de l'activitat és 6 hores a classe.
 
 ### Objectius específics de l'activitat
 
