@@ -1,4 +1,4 @@
-# Projecte 4: El llarg camí del júnior
+# Projecte 4: Everpia, el llarg camí del júnior
 
 ## Taula de continguts
 
