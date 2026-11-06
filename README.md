@@ -3,10 +3,10 @@
 ## Taula de continguts
 
 - [Introducció al cas](#introducció-al-cas)
-- [Compentències profesionals](./documents/Comp.md)
-- [Resultats d'aprenentatge](./documents/RA.md)
+- [Competències professionals](./documents/Comp.md)
+- [Resultats d'aprenentatge](./documents/RAs.md)
 - [Tasques a realitzar](#tasques-a-realitzar)
-- [Pas inicial: crear repostiori](#pas-inicial-crear-repostiori)
+- [Pas inicial: crear repositori](#pas-inicial-crear-repositori)
 - [Lliurament del projecte](#lliurament-del-projecte)
 - [Avaluació del projecte](#avaluació-del-projecte)
 - [Organització del treball](#organització-del-treball)
@@ -14,22 +14,23 @@
 
 ## Introducció al cas
 
-El temps ha passat volant i ja has finalitzat la teva estada de pràctiques a EverPia. El teu tutor ha quedat tan satisfet del teu rendiment que has passat a formar part de l'equip d'EverPia com a júnior. Tot i això, encara et queda molt per aprendre i els teus responsables seran els encarregats en iniciar-te en el món de la consultoria.
+El temps ha passat volant i ja has finalitzat la teva estada de pràctiques a EverPia. El teu tutor ha quedat tan satisfet del teu rendiment que has passat a formar part de l'equip d'EverPia com a júnior. Tot i això, encara et queda molt per aprendre i els teus responsables seran els encarregats d'iniciar-te en el món de la consultoria.
 
-Què ha canviat? Ara ja no ets un becari, que bàsicament es dedica a aprendre i a col·laborar en petites tasques, ara ja tindràs responsabilitats i hauràs de demostrar que ets capaç de desenvolupar-te com a professional dins d'un equip de treball. Per això, el teu tutor et proposarà una sèrie de tasques que hauràs de realitzar amb la seva supervisió. Necessitaràs aplicar els coneixements que has anat adquirint per resoldre les necessitats dels clients de la consultoria. A més, hauràs de demostrar que ets capaç de treballar en equip i que tens iniciativa per proposar solucions als problemes que vagin sorgint.
+Què ha canviat? Ara ja no ets un becari, que bàsicament es dedica a aprendre i a col·laborar en petites tasques. Ara tindràs responsabilitats i hauràs de demostrar que ets capaç de desenvolupar-te com a professional dins d'un equip de treball. Per això, el teu tutor et proposarà una sèrie de tasques que hauràs de realitzar amb la seva supervisió. Necessitaràs aplicar els coneixements que has anat adquirint per resoldre les necessitats dels clients de la consultoria. A més, hauràs de demostrar que ets capaç de treballar en equip i que tens iniciativa per proposar solucions als problemes que vagin sorgint.
 
-Aquí comença el teu camí com a júnior.
+Aquí comença el teu camí com a júnior!
 
 ## Tasques a realitzar
 
-- Tasca 1: [Gestió projecte amb metodologia Kanban](./activitats/Tasca1-Kanban.md)
-- Tasca 2: [Git, viatjant pel temps](./activitats/Tasca2-Git.md)
-- Tasca 3: [Validació de git i GitHub](./activitats/Tasca3-ValidacioGit.md)
+- Tasca 1: [Gestió del projecte amb metodologia Kanban](./activitats/Tasca01-Kanban.md)
+- Tasca 2: [Git, viatjant pel temps](./activitats/Tasca02-Git.md)
+- Tasca 3: [Validació de git i GitHub](./activitats/Tasca03-ValidacioGit.md)
 - Tasca 4: [Emmagatzematge redundant: LVM i espais d'emmagatzematge](https://github.com/SMX-0226SI/NF2AA2-GestioDiscos)
 - Tasca 5: [Disaster Recovery Plan: pla de còpies](https://github.com/SMX-0226SI/NF2AA2-PlaCopies/)
 - Tasca 6: [Administració avançada de servidors Linux](https://github.com/SMX-SOX/activitats/blob/main/nf1-Linux/UD5/AA1-gestors_web.md)
 - Tasca 7: [Monitorització de servidors Linux](https://github.com/SMX-SOX/activitats/blob/main/nf1-Linux/UD5/AA2-monitoritzaci%C3%B3.md)
-- Tasca 8: [Repte RACC](./activitats/tasca08-RACC.md)
+- Tasca 8: [Repte RACC](./activitats/Tasca08-RACC.md)
+- Tasca 9: [Instal·lant un servidor de noms](./activitats/Tasca09-DNS.md)
 
 Com a producte final del projecte, caldrà lliurar:
 
@@ -37,7 +38,7 @@ Com a producte final del projecte, caldrà lliurar:
 
 ## Pas inicial: crear repositori
 
-El primer pas serà crear el teu repositori del projecte 4 a partir de la plantilla que tens disponible en aquest [enllaç](https://github.com/EverPia/projecte4_template).
+El primer pas serà crear el teu repositori del projecte 4 a partir de la plantilla que tens disponible en aquest [enllaç](https://github.com/SMX-ProjecteIntermodular/projecte4_template).
 
 Recordeu que el repositori ha de ser **privat** i que heu d'afegir als professors de projecte com a col·laboradors del vostre repositori, per tal que puguin accedir al contingut i avaluar-lo.
 
@@ -47,15 +48,15 @@ Cal lliurar el repositori amb l'estructura de carpetes i fitxers que es proposa 
 
 El Kanban ha de ser públic perquè pugui ser visualitzat pels professors.
 
-Algunes tasques concretes, també caldrà que les lliureu en el Moodle del mòdul corresponent, tal com us indicarà el professorat.
+Algunes tasques concretes també les haureu de lliurar al Moodle del mòdul corresponent, tal com us indicarà el professorat de cada mòdul.
 
 ## Avaluació del projecte
 
-Les diferentes tasques s'avaluaran en els mòduls corresponents, la nota final del projecte, corresponent al mòdul *Projecte intermodular*, es calcularà a partir dels següents productes finals:
+Les diferents tasques s'avaluaran en els mòduls corresponents. La nota final del projecte, corresponent al mòdul *Projecte intermodular*, es calcularà amb la fórmula següent:
 
 | Tasques individuals              | Tasques en grup               |
 |--------------------------------- |-------------------------------|
-|Tasca 2: Git, viatjan pel temps   |Tasca 1: Gestió Kanban         |
+|Tasca 2: Git, viatjant pel temps  |Tasca 1: Gestió Kanban         |
 |Tasca 3: Validació de git i GitHub|Tasca 6: Presentació grupal    |
 |Producte final: repositori        |                               |
 
@@ -72,6 +73,6 @@ En aquest projecte es treballarà en grups de 2 persones. Hi haurà activitats i
 
 ## Durada i temporització
 
-El projecte té una durada de 3 setmanes, i en aquesta ocasió, implica **totes les hores de dedicació del curs**. Cada mòdul té activitats en aquest projecte, que en principi, haureu de realitzar a les hores del mòdul concret. No obstant això, és possible que algunes activitats s'hagin de realitzar fora de l'horari del mòdul, per la qual cosa haureu de gestionar el vostre temps de manera eficient.
+El projecte té una durada de 3 setmanes i, en aquesta ocasió, implica **totes les hores de dedicació del curs**. Cada mòdul té activitats en aquest projecte que, en principi, haureu de dur a terme durant les hores del mòdul corresponent. No obstant això, és possible que algunes activitats s'hagin de realitzar fora de l'horari del mòdul, per la qual cosa haureu de gestionar el vostre temps de manera eficient.
 
 <!-- Si es vol fer un quadrant com el del primer, enllaçar el document compartit -->
