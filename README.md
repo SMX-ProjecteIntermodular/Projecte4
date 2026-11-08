@@ -63,10 +63,11 @@ Les diferents tasques s'avaluaran en els mòduls corresponents. La nota final de
 
 La nota final del projecte es calcularà amb la següent fórmula:
 
-<!-- CAL RECALCULAR NOTA -->
+<!-- CAL RECALCULAR NOTA
 $$
 \text{Nota final} = 0,25 \cdot \text{Tasca 2} + 0,20 \cdot \text{Tasca 5} + 0,10 \cdot \text{Tasca 6 individual} + 0,20 \cdot \text{Tasca 1} + 0,25 \cdot \text{Tasca 6 grupal}
 $$
+-->
 
 ## Organització del treball
 
