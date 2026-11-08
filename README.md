@@ -22,15 +22,16 @@ Aquí comença el teu camí com a júnior!
 
 ## Tasques a realitzar
 
-- Tasca 1: [Gestió del projecte amb metodologia Kanban](./activitats/Tasca01-Kanban.md)
-- Tasca 2: [Git, viatjant pel temps](./activitats/Tasca02-Git.md)
-- Tasca 3: [Validació de git i GitHub](./activitats/Tasca03-ValidacioGit.md)
-- Tasca 4: [Emmagatzematge redundant: LVM i espais d'emmagatzematge](https://github.com/SMX-0226SI/NF2AA2-GestioDiscos)
-- Tasca 5: [Disaster Recovery Plan: pla de còpies](https://github.com/SMX-0226SI/NF2AA2-PlaCopies/)
-- Tasca 6: [Administració avançada de servidors Linux](https://github.com/SMX-SOX/activitats/blob/main/nf1-Linux/UD5/AA1-gestors_web.md)
-- Tasca 7: [Monitorització de servidors Linux](https://github.com/SMX-SOX/activitats/blob/main/nf1-Linux/UD5/AA2-monitoritzaci%C3%B3.md)
-- Tasca 8: [Repte RACC](./activitats/Tasca08-RACC.md)
-- Tasca 9: [Instal·lant un servidor de noms](./activitats/Tasca09-DNS.md)
+- Tasca 1:  [Gestió del projecte amb metodologia Kanban](./activitats/Tasca01-Kanban.md)
+- Tasca 2:  [Git, viatjant pel temps](./activitats/Tasca02-Git.md)
+- Tasca 3:  [Validació de git i GitHub](./activitats/Tasca03-ValidacioGit.md)
+- Tasca 4:  [Emmagatzematge redundant: LVM i espais d'emmagatzematge](https://github.com/SMX-0226SI/NF2AA2-GestioDiscos)
+- Tasca 5:  [Disaster Recovery Plan: pla de còpies](https://github.com/SMX-0226SI/NF2AA2-PlaCopies/)
+- Tasca 6:  [Administració avançada de servidors Linux](https://github.com/SMX-SOX/activitats/blob/main/nf1-Linux/UD5/AA1-gestors_web.md)
+- Tasca 7:  [Monitorització de servidors Linux](https://github.com/SMX-SOX/activitats/blob/main/nf1-Linux/UD5/AA2-monitoritzaci%C3%B3.md)
+- Tasca 8:  [Repte RACC](./activitats/Tasca08-RACC.md)
+- Tasca 9:  [Instal·lant un servidor de noms](./activitats/Tasca09-DNS.md)
+- Tasca 10: [ODS i el sector IT: el costat sostenible d’EverPia](./activitats/Tasca10-ODS.md)
 
 Com a producte final del projecte, caldrà lliurar:
 

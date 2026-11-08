@@ -22,7 +22,7 @@ w) Participar de forma activa en la vida econòmica, social i cultural, amb una 
 
 ### Resultats d'aprenentatge i criteris d'avaluació
 
-RA1. Identifica els aspectes ASG relatius a la sostenibilitat tenint en compte el concepte de desenvolupament sostenible i els marcs internacionals que contribueixen a la seva consecució. 
+RA1. Identifica els aspectes ASG relatius a la sostenibilitat tenint en compte el concepte de desenvolupament sostenible i els marcs internacionals que contribueixen a la seva consecució.
 
 RA3. Estableix l’aplicació de criteris de sostenibilitat en l’acompliment professional i personal, identificant els elements necessaris.
 
