@@ -1,4 +1,4 @@
-# Títol de l'activitat
+# Tasca 03 - Validació Git
 
 ## Presentació de l'activitat
 
