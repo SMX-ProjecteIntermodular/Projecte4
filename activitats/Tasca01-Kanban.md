@@ -96,8 +96,8 @@ Producte final a entregar:
 
 Dins la carpeta Tasca1, el document "kanban.md" que haurà de tenir el següent contingut:
 
-- Relació de tasques del backlog.
-- Captura de pantalla amb l'estat del Kanban dels divendres corresponents als finals de cada setmana i una darrera aptura amb l'estat final del projecte.
+- Relació de tasques del backlog (això es fa a la primer hora de projecte).
+- Captura de pantalla amb l'estat del Kanban dels divendres corresponents als finals de cada setmana i una darrera captura amb l'estat final del projecte.
 - Gràfics de resum del projecte.
 - Enllaç al Kanban creat al Planner. Assegureu-vos que el Kanban és Públic per tal que el professorat pugui accedir-hi a partir de l'ellaç.
 
