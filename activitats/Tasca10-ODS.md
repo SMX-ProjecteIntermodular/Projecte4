@@ -102,25 +102,25 @@ Feu servir aquestes dues taules a l’informe. Les files en cursiva són un exem
 
 ##### Taula 1. ODS, acció i aspecte ASG
 
-| ODS  | Acció concreta | Aspecte ASG | Per què heu classificat així?  |
-|----- |----------------|-------------|--------------------------------|
-| ODS12| Allargar la vida dels portàtils ampliant memòria RAM i disc en lloc de comprar-ne de nous | A | Redueix els residus electrònics i el consum de materials. |
+| ODS | Acció concreta | Aspecte ASG | Per què heu classificat així? |
+| --- | --- | --- | --- |
+| ODS12 | Allargar la vida dels portàtils ampliant memòria RAM i disc en lloc de comprar-ne de nous | A | Redueix els residus electrònics i el consum de materials. |
 | | | | |
 | | | | |
 
 ##### Taula 2. Impacte de cada acció en els grups d’interès
 
-|Acció | |Grup d’interès   | Com l’afecta | Efecte (+ benefici / – esforç o cost)|
-|----- |----------------   |--------------|--------------------------------------|
-|Allargar la vida dels portàtils | Direcció i propietaris| Gasta menys en equips nous | + |
-|      | Treballadors      | Treballen amb equips que no són els més nous | –  |
-|      | Departament de TI | Més hores d’ampliació i manteniment | +  |
-|      | Proveïdors maquinari |Venen menys equips, però poden oferir servei de reparació | -/+  |
-|      | Client(DigiCore) | Pot presentar un proveïdor amb menys impacte ambiental | + |
-|      | Societat (Medi ambient) | Redueix residus electrònics | + |
-|      | | | | |
-|      | | | | |
-|      | | | | |
+| Acció | Grup d’interès | Com l’afecta | Efecte (+ benefici / – esforç o cost) |
+| --- | --- | --- | --- |
+| Allargar la vida dels portàtils | Direcció i propietaris | Gasta menys en equips nous | + |
+| | Treballadors | Treballen amb equips que no són els més nous | – |
+| | Departament de TI | Més hores d’ampliació i manteniment | + |
+| | Proveïdors maquinari | Venen menys equips, però poden oferir servei de reparació | -/+ |
+| | Client(DigiCore) | Pot presentar un proveïdor amb menys impacte ambiental | + |
+| | Societat (Medi ambient) | Redueix residus electrònics | + |
+| | | | |
+| | | | |
+| | | | |
 
 ### Requeriments previs
 
