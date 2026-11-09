@@ -58,7 +58,7 @@ Les diferents tasques s'avaluaran en els mòduls corresponents. La nota final de
 | Tasques individuals              | Tasques en grup               |
 |--------------------------------- |-------------------------------|
 |Tasca 2: Git, viatjant pel temps  |Tasca 1: Gestió Kanban         |
-|Tasca 3: Validació de git i GitHub|Tasca 6: Presentació grupal    |
+|Tasca 3: Validació de git i GitHub|Tasca 6: Presentació (document)|
 |Producte final: repositori        |                               |
 
 La nota final del projecte es calcularà amb la següent fórmula:
