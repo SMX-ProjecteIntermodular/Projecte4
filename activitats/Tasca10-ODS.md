@@ -12,7 +12,7 @@ L’empresa demana a EverPia un breu informe per comprendre:
 
 ### Durada de l'activitat
 
-La durada prevista de l'activitat és 2 hores a classe.
+La durada prevista de l'activitat és 3 hores a classe.
 
 ### Objectius específics de l'activitat
 
