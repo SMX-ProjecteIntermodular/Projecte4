@@ -43,6 +43,11 @@ El primer pas serà crear el teu repositori del projecte 4 a partir de la planti
 
 Recordeu que el repositori ha de ser **privat** i que heu d'afegir als professors de projecte com a col·laboradors del vostre repositori, per tal que puguin accedir al contingut i avaluar-lo.
 
+Aquí teniu la relació de professors que heu d'afegir com a col·laboradors:
+
+- SMX 2n A: [llista professors](./assets/profes2A.md)
+- SMX 2n B: [llista professors](./assets/profes2B.md)
+
 ## Lliurament del projecte
 
 Cal lliurar el repositori amb l'estructura de carpetes i fitxers que es proposa en la plantilla. A més, caldrà que cada membre del grup documenti les activitats individuals i les de grup en el seu repositori GitHub.
