@@ -60,6 +60,12 @@ m) Organitzar i desenvolupar el treball assignat mantenint unes relacions profes
 
 A partir de l'enunciat de l'activitat, haureu de resoldre una sèrie d'accions relatives al control de versions amb Git i GitHub, així com a la generació de documentació en format Markdown.
 
+A l'inici de l'activitat, caldrà que creeu un repositori a partir de la plantilla disponible a Moodle. El repositori ha de ser **privat** i afegiu com col·laboradors el professorat indicat.
+
+Cloneu el repositori en local i, a partir d'aquest, realitzeu les diferents accions que es demanen a l'enunciat de l'activitat. Heu de treballar en **local**, fent les diferents accions amb Git usant Visual Studio Code.
+
+Al final de l'activitat, pugeu tots els canvis al vostre repositori de GitHub i compartiu l'enllaç del repositori a la tasca corresponent al Moodle de Projecte Intermodular.
+
 ### Requeriments previs
 
 - Compte de GitHub actiu
