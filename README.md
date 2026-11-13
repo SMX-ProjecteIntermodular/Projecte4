@@ -86,7 +86,7 @@ El projecte té una durada de 3 setmanes i, en aquesta ocasió, implica **totes 
 
 ### Setmana 1
 
-- Dilluns 9 de novembre: Inici del projecte. Creació del repositori personal. Configuració del Kanban i creació del Backlog. 
+- Dilluns 9 de novembre: Inici del projecte. Creació del repositori personal. Configuració del Kanban i creació del Backlog.
 - Dimarts 10 de novembre: Tasca 2 (Git, viatjant pel temps): explicació de la tasca.
 - Divendres 13 de novembre: Finalització de la tasca 2 (Git, viatjant pel temps) i revisió de la tasca 1 (Kanban).
 - Tasques dels mòduls: seguir la planificació indicada per cada mòdul.
