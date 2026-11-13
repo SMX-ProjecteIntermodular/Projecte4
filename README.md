@@ -86,3 +86,18 @@ En aquest projecte es treballarà en grups de 2 persones. Hi haurà activitats i
 El projecte té una durada de 3 setmanes i, en aquesta ocasió, implica **totes les hores de dedicació del curs**. Cada mòdul té activitats en aquest projecte que, en principi, haureu de dur a terme durant les hores del mòdul corresponent. No obstant això, és possible que algunes activitats s'hagin de realitzar fora de l'horari del mòdul, per la qual cosa haureu de gestionar el vostre temps de manera eficient.
 
 <!-- Si es vol fer un quadrant com el del primer, enllaçar el document compartit -->
+
+### Planificació de les tasques
+
+### Setmana 1
+
+- Dilluns 9 de novembre: Inici del projecte. Creació del repositori personal. Configuració del Kanban i creació del Backlog. 
+- Dimarts 10 de novembre: Tasca 2 (Git, viatjant pel temps): explicació de la tasca.
+- Divendres 13 de novembre: Finalització de la tasca 2 (Git, viatjant pel temps) i revisió de la tasca 1 (Kanban).
+- Tasques dels mòduls: seguir la planificació indicada per cada mòdul.
+
+### Setmana 2
+
+- Dimarts 17 de novembre: Tasca 3 (Validació de git i GitHub).
+- Divendres 20 de novembre: Actualització del Kanban i revisió estat projecte.
+- Tasques dels mòduls: seguir la planificació indicada per cada mòdul.
