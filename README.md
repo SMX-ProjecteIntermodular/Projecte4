@@ -28,7 +28,7 @@ Aquí comença el teu camí com a júnior!
 - Tasca 4:  [Emmagatzematge redundant: LVM i espais d'emmagatzematge](https://github.com/SMX-0226SI/NF2AA2-GestioDiscos)
 - Tasca 5:  [Disaster Recovery Plan: pla de còpies](https://github.com/SMX-0226SI/NF2AA2-PlaCopies/)
 - Tasca 6:  [Administració avançada de servidors Linux](https://github.com/SMX-SOX/activitats/blob/main/nf1-Linux/UD5/AA1-gestors_web.md)
-- Tasca 7:  [Monitorització de servidors Linux](https://github.com/SMX-SOX/activitats/blob/main/nf1-Linux/UD5/AA2-monitoritzaci%C3%B3.md)
+- ~~Tasca 7:  [Monitorització de servidors Linux](https://github.com/SMX-SOX/activitats/blob/main/nf1-Linux/UD5/AA2-monitoritzaci%C3%B3.md)~~
 - Tasca 8:  [Repte RACC](activitats/tasca08-RACC.md)
 - Tasca 9:  [Instal·lant un servidor de noms](./activitats/Tasca09-DNS.md)
 - Tasca 10: [ODS i el sector IT: el costat sostenible d’EverPia](./activitats/Tasca10-ODS.md)
@@ -96,3 +96,14 @@ El projecte té una durada de 3 setmanes i, en aquesta ocasió, implica **totes 
 - Dimarts 17 de novembre: Tasca 3 (Validació de git i GitHub).
 - Divendres 20 de novembre: Actualització del Kanban i revisió estat projecte.
 - Tasques dels mòduls: seguir la planificació indicada per cada mòdul.
+
+### Setmana 3
+
+- Dilluns 23 de novembre: Avançar tasques
+- Dimarts 24 de novembre: Avançar tasques. Actualització del Kanban.
+
+### Setmana 4
+
+- Dilluns 30 de novembre: Avançar tasques.
+- Dimarts 1 de desembre: Avançar tasques.
+- Divendres 4 de desembre: Finalització del projecte. Lliurament del repositori amb totes les tasques realitzades i documentació generada. Revisió final del Kanban.
